@@ -1,3 +1,5 @@
 This is my file
 Second time changes
 This change belongs to branch b1.
+This is another b3 change.
+Another change in initial file.
