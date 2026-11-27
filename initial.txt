@@ -3,3 +3,4 @@ Second time changes
 This change belongs to branch b1.
 This is another b3 change.
 Another change in initial file.
+CONFLICT TEST: This line was changed in b3.
