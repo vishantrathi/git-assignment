@@ -1,1 +1,2 @@
 This file belongs to branch b2.
+This is an additional change in b3.
