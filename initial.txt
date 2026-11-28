@@ -9,3 +9,4 @@ Line A for Section 7
 Line B for Section 7
 Line A for Section 7
 Line B for Section 7
+Conflicting line committed on main
