@@ -2,3 +2,10 @@ This is my file
 Second time changes
 This change belongs to branch b1.
 CONFLICT TEST: Conflict resolved successfully.
+Line A for Section 7
+Line B for Section 7
+Line B for Section 7
+Line A for Section 7
+Line B for Section 7
+Line A for Section 7
+Line B for Section 7
